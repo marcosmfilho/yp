@@ -115,9 +115,9 @@ h1 {
 }
 
 .success-message {
-    font-size: 1.8rem;
+    font-size: 1.5rem;
     color: #fff;
-    margin-top: 2rem;
+    margin-top: 1rem;
     animation: fadeIn 0.5s;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
     background-color: rgba(76, 175, 80, 0.7);
