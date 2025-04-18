@@ -178,7 +178,7 @@ document.addEventListener('DOMContentLoaded', function() {
         
         // Mostra mensagem de celebração
         const message = document.createElement('p');
-        message.textContent = '🎉 Parabéns! Escolha correta! 🎉';
+        message.textContent = 'Escolha correta! 🎉';
         message.classList.add('success-message');
         container.appendChild(message);
         
